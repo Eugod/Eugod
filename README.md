@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eugênio Rodrigues 👋
 
-- 🔭 Atualmente estou estagiando como Desenvolvedor Front-end
-- 🌱 Estudando TypeScript, React e Node.js
+- 🔭 Atualmente estou trabalhando como Desenvolvedor Front-end
+- 🌱 Estudando Java, React e Node.js
 
 ![Eugod GitHub stats](https://github-readme-stats.vercel.app/api?username=Eugod&show_icons=true&theme=dracula&count_private=true)
 

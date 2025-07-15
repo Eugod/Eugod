@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Eugênio Rodrigues 👋
 
-🎓 Estudante de Sistemas de Informação | 💼 Desenvolvedor Front-end | Estudando back-end com Java
+🎓 Estudante de Sistemas de Informação | 💼 Desenvolvedor Front-end | 📚 Estudando back-end com Java
 
 ##
 
